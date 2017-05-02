@@ -14,3 +14,7 @@ public void thisIsANewMethod() {
 public int getMeaningOfLife() {
     return "42";
 }
+
+public String getMeaningfulAdvice() {
+    return "You're gonna die";
+}
