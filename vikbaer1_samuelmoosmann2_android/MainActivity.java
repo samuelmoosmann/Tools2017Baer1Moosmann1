@@ -8,6 +8,12 @@ public static void main() {
 public void thisIsANewMethod() {
     Log.d("Test", "nono");
     println("this was an inside job");
+
+	for(int i = 0; i < 10; i++){
+		println(i);
+	}
+	List<String> strings = new LinkedList<>();
+	string.add("Nicer string");
 }
 
 
@@ -23,3 +29,4 @@ public String getMeaningfulAdvice() {
 public String conspire(String input){
     return input + " was an inside job";
 }
+  
