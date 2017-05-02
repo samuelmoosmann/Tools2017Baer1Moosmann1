@@ -8,4 +8,7 @@ public static void main() {
 public void thisIsANewMethod() {
     Log.d("Test", "jaja");
 	println("this was an inside job");
+	for(int i = 0; i < 10; i++){
+		println(i);
+	}
 }
