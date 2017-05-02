@@ -11,4 +11,6 @@ public void thisIsANewMethod() {
 	for(int i = 0; i < 10; i++){
 		println(i);
 	}
+	List<String> strings = new LinkedList<>();
+	string.add("Nicer string");
 }
