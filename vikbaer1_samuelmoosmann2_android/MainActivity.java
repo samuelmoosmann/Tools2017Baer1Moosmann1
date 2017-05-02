@@ -6,5 +6,5 @@ public static void main() {
 }
 
 public void thisIsANewMethod() {
-    
+    Log.d("Test", "jaja");
 }
