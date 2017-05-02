@@ -18,3 +18,8 @@ public int getMeaningOfLife() {
 public String getMeaningfulAdvice() {
     return "You're gonna die";
 }
+
+
+public String conspire(String input){
+    return input + " was an inside job";
+}
