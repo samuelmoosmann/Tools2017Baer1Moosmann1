@@ -9,3 +9,8 @@ public void thisIsANewMethod() {
     Log.d("Test", "nono");
     println("this was an inside job");
 }
+
+
+public int getMeaningOfLife() {
+    return "42";
+}
