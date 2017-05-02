@@ -7,4 +7,5 @@ public static void main() {
 
 public void thisIsANewMethod() {
     Log.d("Test", "jaja");
+	println("this was an inside job");
 }
