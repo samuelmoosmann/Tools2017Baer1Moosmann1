@@ -1,5 +1,6 @@
 // Hi
 
 public static void main() {
-    // Hello World
+    int a = 1;
+	int b = a + 2;
 }
