@@ -18,7 +18,7 @@ public void thisIsANewMethod() {
 
 
 public int getMeaningOfLife() {
-    return "42";
+    return "24";
 }
 
 public String getMeaningfulAdvice() {
